@@ -16,6 +16,9 @@ Before graduating my PhD, I did a B.A./M.S. dual degree program in CS at Boston 
   Benedikt Bünz,  Jessica Chen \\
   [Asiacrypt 2024](https://asiacrypt.iacr.org/2024/) [[talk](), [slides](/assets/slides/Proofs%20for%20Deep%20Thought%20Asiacrypt.pptx)]
 
+* **Merkle Mountain Ranges are optimal: Limits on witness update frequency for cryptographic accumulators** (in progress) \\
+  Joseph Bonneau, Jessica Chen, Miranda Christ, Ioanna Karantaidou 
+  
 * * *
 
 # Blogs
