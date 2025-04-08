@@ -13,11 +13,14 @@ Before starting my PhD, I did a B.A./M.S. dual degree program in CS at Boston Un
 # Publications
 
 * **Proofs for Deep Thought: Accumulation for large memories and deterministic computations** [eprint](https://ia.cr/2024/325)\\
-  Benedikt Bünz,  Jessica Chen \\
+  Benedikt Bünz, Jessica Chen \\
   [Asiacrypt 2024](https://asiacrypt.iacr.org/2024/) [[talk](https://www.youtube.com/watch?v=rOspv4WAlz0&list=PLeeS-3Ml-rpoZPyKxERAnTFYWqcRhUTAw#t=24m22s), [slides](/assets/slides/Proofs%20for%20Deep%20Thought%20Asiacrypt.pptx)]
 
 * **Merkle Mountain Ranges are optimal: Limits on witness update frequency for cryptographic accumulators** [eprint](https://eprint.iacr.org/2025/234) \\
   Joseph Bonneau, Jessica Chen, Miranda Christ, Ioanna Karantaidou
+
+* **Almost Linear Time Permutation Check** (in progress) \\
+  Benedikt Bünz, Jessica Chen, Zachary DeStefano
   
 * * *
 
