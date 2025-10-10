@@ -21,7 +21,7 @@ Before starting my PhD, I did a B.A./M.S. dual degree program in CS at Boston Un
   [Crypto 2025](https://crypto.iacr.org/2025/)
 
 * **Linear\*-Time Permutation Check** \\
-  Benedikt Bünz, Jessica Chen, Zachary DeStefano [eprint](https://eprint.iacr.org/2025/1850) [slides](https://docs.google.com/presentation/d/1EpZT7U2EdC-2uhFK7zdWxMP0kpQ-kIk7/edit?usp=drive_link&ouid=106969769203425513186&rtpof=true&sd=true)
+  Benedikt Bünz, Jessica Chen, Zachary DeStefano [eprint](https://eprint.iacr.org/2025/1850) [[slides](https://docs.google.com/presentation/d/1EpZT7U2EdC-2uhFK7zdWxMP0kpQ-kIk7/edit?usp=sharing&ouid=106969769203425513186&rtpof=true&sd=true)]
   
 * * *
 
