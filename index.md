@@ -12,11 +12,12 @@ Before starting my PhD, I did a B.A./M.S. dual degree program in CS at Boston Un
 
 # Publications
 
-* **Limber: Low Overhead SNARKs for Integers from Any PCS** \\
-  Jessica Chen, Lucas Xia, Benedikt Bünz, Wilson Nguyen [eprint](https://eprint.iacr.org/2026/1635)
+* **Limber: Low Overhead SNARKs for Integers from Any PCS** [eprint](https://eprint.iacr.org/2026/1635)\\
+  Jessica Chen, Lucas Xia, Benedikt Bünz, Wilson Nguyen 
 
-* **Almost Linear-Time Permutation Check** \\
-  Benedikt Bünz, Jessica Chen, Zachary DeStefano, Binyi Chen [eprint](https://eprint.iacr.org/2025/1850) [[slides](https://docs.google.com/presentation/d/1EpZT7U2EdC-2uhFK7zdWxMP0kpQ-kIk7/edit?usp=sharing&ouid=106969769203425513186&rtpof=true&sd=true)]
+* **Almost Linear-Time Permutation Check** [eprint](https://eprint.iacr.org/2025/1850) \\
+  Benedikt Bünz, Jessica Chen, Zachary DeStefano, Binyi Chen \\
+  [TCC 2026](https://tcc.iacr.org/2026/) [[slides](https://docs.google.com/presentation/d/1EpZT7U2EdC-2uhFK7zdWxMP0kpQ-kIk7/edit?usp=sharing&ouid=106969769203425513186&rtpof=true&sd=true)]
 
 * **Merkle Mountain Ranges are optimal: Limits on witness update frequency for cryptographic accumulators** [eprint](https://eprint.iacr.org/2025/234) \\
   Joseph Bonneau, Jessica Chen, Miranda Christ, Ioanna Karantaidou \\
