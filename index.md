@@ -12,6 +12,12 @@ Before starting my PhD, I did a B.A./M.S. dual degree program in CS at Boston Un
 
 # Publications
 
+* **Boolean Permutation Checks**\\
+  Jonathan Bootle, Benedikt Bünz, Jessica Chen, Ron Rothblum
+
+* **It Takes Two: Proofs of Work for Fiat–Shamir**\\
+  Benedikt Bünz, Jessica Chen, Ziyi Guan
+
 * **Limber: Low Overhead SNARKs for Integers from Any PCS** [eprint](https://eprint.iacr.org/2026/1635)\\
   Jessica Chen, Lucas Xia, Benedikt Bünz, Wilson Nguyen 
 
@@ -27,8 +33,17 @@ Before starting my PhD, I did a B.A./M.S. dual degree program in CS at Boston Un
   Benedikt Bünz, Jessica Chen \\
   [Asiacrypt 2024](https://asiacrypt.iacr.org/2024/) [[talk](https://www.youtube.com/watch?v=rOspv4WAlz0&list=PLeeS-3Ml-rpoZPyKxERAnTFYWqcRhUTAw#t=24m22s), [slides](/assets/slides/Proofs%20for%20Deep%20Thought%20Asiacrypt.pptx)]
 
-  
 * * *
+
+# Non-CS Publications
+
+* **Small-molecule targeting of GPCR-independent noncanonical G-protein signaling in cancer** [PubMed](https://pubmed.ncbi.nlm.nih.gov/37098067) \\
+  Jingyi Zhao, Vincent DiGiacomo, Mariola Ferreras-Gutierrez, Shiva Dastjerdi, Alain Ibáñez de Opakua, Jong-Chan Park, Alex Luebbers, *Qingyan Chen*, Aaron Beeler, Francisco J Blanco, Mikel Garcia-Marcos \\
+  [PNAS 2023](https://www.pnas.org/doi/10.1073/pnas.2213140120)
+
+* **Effect of a Family Medicine Wellness Group Program on Long-Term Weight Loss Maintenance Outcomes** [PubMed](https://pubmed.ncbi.nlm.nih.gov/40118550/)\\
+  Hawley Brown, David Randall Brandt, Jessica Chen, Kerri Hawkins, Kimberly R. Dong, Wayne Altman \\
+  [JABFM 2024](https://www.jabfm.org/content/37/6/1038)
 
 <!--- # Blogs
 Below are entries I sometimes write to help myself understand papers. Not sure how much sense they will make to someone else.
