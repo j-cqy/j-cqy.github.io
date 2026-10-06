@@ -15,10 +15,10 @@ Before starting my PhD, I did a B.A./M.S. dual degree program in CS at Boston Un
 * **Boolean Permutation Checks**\\
   Jonathan Bootle, Benedikt Bünz, Jessica Chen, Ron Rothblum
 
-* **It Takes Two: Proofs of Work for Fiat–Shamir**\\
+* **It Takes Two: Proofs of Work for Fiat–Shamir** [eprint](https://eprint.iacr.org/2026/2326) \\
   Benedikt Bünz, Jessica Chen, Ziyi Guan
 
-* **Limber: Low Overhead SNARKs for Integers from Any PCS** [eprint](https://eprint.iacr.org/2026/1635)\\
+* **Limber: Low Overhead SNARKs for Integers from Any PCS** [eprint](https://eprint.iacr.org/2026/1635) \\
   Jessica Chen, Lucas Xia, Benedikt Bünz, Wilson Nguyen 
 
 * **Almost Linear-Time Permutation Check** [eprint](https://eprint.iacr.org/2025/1850) \\
